@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/checkpointredux-app/static/css/main.04179b6f.css",
-    "main.js": "/checkpointredux-app/static/js/main.e23d70a5.js",
-    "static/js/787.f37acd2f.chunk.js": "/checkpointredux-app/static/js/787.f37acd2f.chunk.js",
-    "index.html": "/checkpointredux-app/index.html",
-    "main.04179b6f.css.map": "/checkpointredux-app/static/css/main.04179b6f.css.map",
-    "main.e23d70a5.js.map": "/checkpointredux-app/static/js/main.e23d70a5.js.map",
-    "787.f37acd2f.chunk.js.map": "/checkpointredux-app/static/js/787.f37acd2f.chunk.js.map"
+    "main.css": "/checkpointredux/static/css/main.04179b6f.css",
+    "main.js": "/checkpointredux/static/js/main.74b3fc15.js",
+    "static/js/787.f37acd2f.chunk.js": "/checkpointredux/static/js/787.f37acd2f.chunk.js",
+    "index.html": "/checkpointredux/index.html",
+    "main.04179b6f.css.map": "/checkpointredux/static/css/main.04179b6f.css.map",
+    "main.74b3fc15.js.map": "/checkpointredux/static/js/main.74b3fc15.js.map",
+    "787.f37acd2f.chunk.js.map": "/checkpointredux/static/js/787.f37acd2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.e23d70a5.js"
+    "static/js/main.74b3fc15.js"
   ]
 }
